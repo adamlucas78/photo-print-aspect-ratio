@@ -13,3 +13,5 @@ https://git-scm.com/downloads
 
 Run GIT Bash from this directory and run "vagrant up"
 
+Drop your photos into the /html/originals/ directory and visit the http://localhost:8080
+Photos will be copied into the /html/resized/ directory and you can use those to prevent photo printing websites from messing with your photos!
